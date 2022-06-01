@@ -8,7 +8,7 @@
 
 #apps-number {
   --p: 0;
-  animation: p 5s steps(35) infinite;
+  animation: p 5s steps(53) infinite;
   counter-reset: p var(--p);
   font-size: 3.5em;
   font-weight: 800;
@@ -27,7 +27,7 @@
 @keyframes p {
   59%,
   100% {
-    --p: 35;
+    --p: 53;
   }
 }
 /* HTML, CSS, JavaScript, jQuery, SVG, Bootstrap technologies signs */
