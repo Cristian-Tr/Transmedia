@@ -263,7 +263,7 @@
 
   #timeline ul li:nth-child(even) div:before {
     left: -20px;
-    border-width: 8px 16px 8px 0;
-    border-color: transparent lightskyblue transparent transparent;
+    border-width: 9px 18px 9px 0;
+    border-color: transparent #8888ff transparent transparent;
   }
 }
